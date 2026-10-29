@@ -3,8 +3,8 @@
     "discord-ticket-organizer@lucaspaiva.local": {
       "updates": [
         {
-          "version": "2.3.2",
-          "update_link": "https://addons.mozilla.org/firefox/downloads/file/5174672/4e942e6520944a4d9cbf-2.3.2.xpi"
+          "version": "2.4.1",
+          "update_link": "https://github.com/lukaop/sigma-tickets/raw/refs/heads/main/4e942e6520944a4d9cbf-2.4.1.xpi"
         }
       ]
     }
